@@ -1,0 +1,8 @@
+#navbar{
+    float: left;
+}
+@media screen and (min-width: 480px) {
+    body {
+        background-color: aliceblue;
+    }
+}
